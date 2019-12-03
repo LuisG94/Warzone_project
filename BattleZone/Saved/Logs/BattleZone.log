@@ -589,3 +589,117 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.03-19.11.42:193][415]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
 [2019.12.03-19.11.44:249][415]LogSlate: Took 0.011338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2019.12.03-19.11.44:768][416]LogSlate: Took 0.008722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.03-19.12.53:602][853]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.12.03-19.12.55:319][956]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-19.12.55:357][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.03-19.12.55:358][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-19.12.55:359][956]PIE: New page: PIE session: MainMap (Dec 3, 2019, 7:12:55 AM)
+[2019.12.03-19.12.55:393][956]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2019.12.03-19.12.55:465][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072107s)
+[2019.12.03-19.12.55:465][956]LogAIModule: Creating AISystem for world MainMap
+[2019.12.03-19.12.55:466][956]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2019.12.03-19.12.55:466][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.072935s)
+[2019.12.03-19.12.55:497][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.12.03-19.12.55:642][956]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.03-19.12.55:742][956]LogInit: FAudioDevice initialized.
+[2019.12.03-19.12.55:799][956]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.03-19.12.55:969][956]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2019.12.03-13.12.55
+[2019.12.03-19.12.55:969][956]LogWorld: Bringing up level for play took: 0.002115
+[2019.12.03-19.12.56:279][956]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.12.03-19.12.56:297][956]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.12.03-19.12.56:298][956]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.03-19.12.56:372][956]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap 0.378
+[2019.12.03-19.12.56:373][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.03-19.13.13:945][977]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.03-19.13.13:945][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-19.13.13:983][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-19.13.13:984][977]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.03-19.13.14:028][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-19.13.14:048][977]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.12.03-19.13.14:190][978]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.03-19.13.15:458][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.42.39:214][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.43.05:417][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.43.18:014][821]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.12.03-19.43.46:913][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.44.01:313][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.44.41:190][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.12.03-19.44.41:229][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.03-19.44.41:649][724]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto17469CBED4425A10B4A76A2B727469BDB.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto1.umap'
+[2019.12.03-19.44.41:668][724]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.512
+[2019.12.03-19.44.41:668][724]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.512
+[2019.12.03-19.51.45:047][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.52.11:015][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.52.14:954][837]LogActorFactory: Actor Factory created Fir_08_Dead_NoBillboard
+[2019.12.03-19.52.16:659][928]LogActorFactory: Actor Factory created Fir_08_Dead_NoBillboard
+[2019.12.03-19.52.17:575][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.52.18:403][985]LogStaticMesh: Building static mesh Poplar_01_Standalone...
+[2019.12.03-19.52.18:425][985]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2019.12.03-19.52.21:923][985]LogStaticMesh: Built static mesh [3.53s] /Game/Environment_Set/Environment/Foliage/Models/Poplar_01_Standalone.Poplar_01_Standalone
+[2019.12.03-19.52.22:154][985]LogActorFactory: Actor Factory created Poplar_01_Standalone
+[2019.12.03-19.52.22:162][985]LogActorFactory: Actor Factory created Poplar_01_Standalone
+[2019.12.03-19.52.29:379][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.52.29:611][410]LogActorFactory: Actor Factory created Poplar_05_Small
+[2019.12.03-19.52.31:337][511]LogActorFactory: Actor Factory created Poplar_05_Small
+[2019.12.03-19.52.35:233][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.52.35:489][757]LogActorFactory: Actor Factory created Poplar_05_Small
+[2019.12.03-19.52.37:104][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.52.44:041][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.53.10:344][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.53.10:478][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-19.53.10:541][842]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.12.03-19.53.11:475][842]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap54A60D834CDC14B0D1D75897A8D1BC43.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.03-19.53.11:490][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2019.12.03-19.53.11:516][842]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltData02DF23754F8828463BE531855549F912.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
+[2019.12.03-19.53.55:372][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.54.07:782][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.54.18:546][804]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.03-19.54.27:577][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.56.13:810][590]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.58.38:432][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.59.31:049][238]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.59.34:236][425]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.59.36:921][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-20.02.22:575][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-20.03.11:675][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-20.04.31:671][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-20.04.31:737][900]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.12.03-20.04.31:737][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.03-20.04.32:231][900]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.12.03-20.04.32:497][900]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto2627522044824AD864481B1B2F4738A7D.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto2.umap'
+[2019.12.03-20.04.32:499][900]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.815
+[2019.12.03-20.04.32:499][900]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.815
+[2019.12.03-20.05.04:023][759]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-20.05.18:066][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-20.05.35:332][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-20.06.09:704][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-20.06.26:536][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-20.07.07:765][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-20.08.54:841][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-20.14.32:677][688]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-20.14.32:722][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.12.03-20.14.33:122][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.03-20.14.33:502][688]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.12.03-20.14.33:896][688]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto3E95109D04059BB34CAC9D29382831384.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto3.umap'
+[2019.12.03-20.14.33:897][688]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 1.206
+[2019.12.03-20.14.33:897][688]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.206
+[2019.12.03-20.23.29:931][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-20.23.37:302][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-20.23.39:901][376]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.03-20.23.46:549][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-20.23.59:979][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-20.24.02:099][683]Cmd: DELETE
+[2019.12.03-20.24.02:099][683]Cmd: ACTOR DELETE
+[2019.12.03-20.24.02:353][683]LogEditorActor: Deleted Actor: Brush
+[2019.12.03-20.24.02:388][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.12.03-20.24.02:404][683]LogEditorActor: Deleted 1 Actors (0.251 secs)
+[2019.12.03-20.24.05:031][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-20.24.10:285][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-20.24.10:313][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.12.03-20.24.10:588][100]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.12.03-20.24.11:025][100]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap67E2FE474865AB60D52118B959A5AEC6.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.03-20.24.11:040][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2019.12.03-20.24.11:061][100]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltData6DD6512B4C0A34BDA97D0ABC918314FD.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
+[2019.12.03-20.53.08:818][479]LogDirectoryWatcher: A directory notification failed for 'D:/GitHub/Warzone_project/BattleZone/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2019.12.03-20.53.08:818][479]LogDirectoryWatcher: A directory notification failed for 'D:/GitHub/Warzone_project/BattleZone/Content/Developers/Luis/Collections/' because it could not be accessed. Aborting watch request...
+[2019.12.03-20.53.08:818][479]LogDirectoryWatcher: A directory notification failed for 'D:/GitHub/Warzone_project/BattleZone/Saved/Collections/' because it could not be accessed. Aborting watch request...
