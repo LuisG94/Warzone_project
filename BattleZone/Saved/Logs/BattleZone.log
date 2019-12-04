@@ -598,3 +598,76 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.04-00.12.21:795][967]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.12.04-00.12.21:795][967]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.065ms to complete.
 [2019.12.04-00.12.21:795][967]LogFileHelpers: Loading map 'MainMap' took 0.341
+[2019.12.04-00.17.47:871][878]Cmd: TRANSACTION UNDO
+[2019.12.04-00.17.47:871][878]LogEditorTransaction: Undo Move Actors
+[2019.12.04-00.17.57:241][906]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.04-00.17.59:739][142]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.04-00.18.26:524][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.18.29:260][529]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.04-00.18.40:137][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.18.49:776][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.19.00:987][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.19.38:449][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.19.39:452][293]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.12.04-00.19.44:788][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.20.28:750][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.20.44:239][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.21.41:560][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-00.22.13:826][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.22.22:321][718]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.12.04-00.22.30:268][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.22.35:297][192]Cmd: TRANSACTION UNDO
+[2019.12.04-00.22.35:298][192]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2019.12.04-00.22.39:058][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.23.08:483][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.23.10:479][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.24.13:271][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.24.32:908][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.24.40:573][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.24.50:717][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.25.04:340][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.25.20:281][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.25.33:911][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.26.43:352][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-00.27.44:736][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.28.09:695][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.12.04-00.28.09:732][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.04-00.28.10:236][172]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.12.04-00.28.10:820][172]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto1417BACC84B1B13166325259F35953BAD.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto1.umap'
+[2019.12.04-00.28.10:871][172]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 1.546
+[2019.12.04-00.28.10:871][172]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.546
+[2019.12.04-00.28.40:537][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-00.28.52:640][664]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-00.29.34:781][186]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-00.29.47:163][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.29.51:200][ 66]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.04-00.29.52:819][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.30.08:088][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.30.17:155][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.30.25:978][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.30.35:062][114]Cmd: TRANSACTION UNDO
+[2019.12.04-00.30.35:062][114]LogEditorTransaction: Undo Edit Z
+[2019.12.04-00.30.35:268][127]Cmd: TRANSACTION UNDO
+[2019.12.04-00.30.35:268][127]LogEditorTransaction: Undo Edit Z
+[2019.12.04-00.30.35:466][135]Cmd: TRANSACTION UNDO
+[2019.12.04-00.30.35:466][135]LogEditorTransaction: Undo Edit Z
+[2019.12.04-00.30.37:792][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.31.31:706][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.31.45:542][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.31.58:380][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.32.05:300][319]Cmd: DELETE
+[2019.12.04-00.32.05:300][319]Cmd: ACTOR DELETE
+[2019.12.04-00.32.05:693][319]LogEditorActor: Deleted Actor: Brush
+[2019.12.04-00.32.05:725][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.12.04-00.32.05:743][319]LogEditorActor: Deleted 1 Actors (0.274 secs)
+[2019.12.04-00.32.12:759][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.32.26:714][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.32.37:813][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.32.42:571][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.33.43:463][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-00.33.44:168][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.04-00.33.44:199][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.12.04-00.33.44:381][324]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.12.04-00.33.45:094][324]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMapA841DD6742CEA50D0029AB9AC4DA3419.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.04-00.33.45:121][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2019.12.04-00.33.45:155][324]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltData3EE450634DD27973299D6586E10C9725.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
