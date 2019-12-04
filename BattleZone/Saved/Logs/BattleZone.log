@@ -792,3 +792,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.04-00.50.52:336][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.12.04-00.51.18:488][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
 [2019.12.04-00.51.18:489][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.04-00.51.20:743][598]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.12.04-00.51.21:367][598]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto27D3782BF4FB6FABBCAF1E6935DB1B9D3.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto2.umap'
+[2019.12.04-00.51.21:461][598]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 3.002
+[2019.12.04-00.51.21:461][598]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.002
