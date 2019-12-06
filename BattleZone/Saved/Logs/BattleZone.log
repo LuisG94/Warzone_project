@@ -1563,3 +1563,563 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.06-00.38.42:731][142]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMapD52D513F4915969AC1FB07AD23AF683D.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
 [2019.12.06-00.38.42:746][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
 [2019.12.06-00.38.42:854][142]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltData0DE054754BC4C7C77EEBE9A46CFA791B.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
+[2019.12.06-00.41.30:095][ 37]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.12.06-00.41.33:715][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.41.55:388][402]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.12.06-00.41.56:854][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.42.03:587][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.42.14:792][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.42.16:996][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.42.20:142][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.42.24:890][133]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.12.06-00.42.28:081][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.42.28:164][320]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-00.42.28:173][320]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-00.42.28:173][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-00.42.28:173][320]PIE: New page: PIE session: MainMap (Dec 5, 2019, 12:42:28 PM)
+[2019.12.06-00.42.28:173][320]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2019.12.06-00.42.28:216][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042606s)
+[2019.12.06-00.42.28:217][320]LogAIModule: Creating AISystem for world MainMap
+[2019.12.06-00.42.28:217][320]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2019.12.06-00.42.28:217][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.043606s)
+[2019.12.06-00.42.28:241][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.12.06-00.42.28:248][320]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.06-00.42.28:430][320]LogInit: FAudioDevice initialized.
+[2019.12.06-00.42.28:459][320]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.06-00.42.28:466][320]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2019.12.05-18.42.28
+[2019.12.06-00.42.28:467][320]LogWorld: Bringing up level for play took: 0.006901
+[2019.12.06-00.42.28:481][320]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap 0.864
+[2019.12.06-00.42.28:481][320]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-00.42.35:596][739]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-00.42.35:596][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-00.42.35:632][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-00.42.35:632][739]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-00.42.35:660][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-00.42.35:664][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.12.06-00.42.35:715][741]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.12.06-00.42.36:482][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SU_152_static2)
+[2019.12.06-00.42.40:396][ 17]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.12.06-00.42.43:072][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.42.43:139][177]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-00.42.43:147][177]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-00.42.43:147][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-00.42.43:148][177]PIE: New page: PIE session: MainMap (Dec 5, 2019, 12:42:43 PM)
+[2019.12.06-00.42.43:148][177]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2019.12.06-00.42.43:190][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042347s)
+[2019.12.06-00.42.43:191][177]LogAIModule: Creating AISystem for world MainMap
+[2019.12.06-00.42.43:285][177]LogPlayLevel: PIE: World Init took: (0.094693s)
+[2019.12.06-00.42.43:285][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.137250s)
+[2019.12.06-00.42.43:308][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.12.06-00.42.43:313][177]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.06-00.42.43:502][177]LogInit: FAudioDevice initialized.
+[2019.12.06-00.42.43:528][177]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.06-00.42.43:534][177]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2019.12.05-18.42.43
+[2019.12.06-00.42.43:534][177]LogWorld: Bringing up level for play took: 0.005748
+[2019.12.06-00.42.43:548][177]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap -0.069
+[2019.12.06-00.42.43:548][177]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-00.43.13:579][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-00.43.13:579][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-00.43.13:610][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-00.43.13:611][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-00.43.13:641][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-00.43.13:645][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.12.06-00.43.13:704][972]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.12.06-00.43.23:142][523]LogEditorViewport: Clicking on Actor (LMB): M-42_45mm_Blueprint_C (M-42_45mm_Blueprint)
+[2019.12.06-00.43.38:868][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.43.47:405][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.43.51:231][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.44.33:191][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.45.24:844][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.46.29:022][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.46.32:907][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var49)
+[2019.12.06-00.46.34:258][636]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var48)
+[2019.12.06-00.46.34:992][678]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var03)
+[2019.12.06-00.46.35:739][720]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2019.12.06-00.46.36:631][771]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var01)
+[2019.12.06-00.46.37:454][818]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var02)
+[2019.12.06-00.46.38:156][858]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var04)
+[2019.12.06-00.46.39:129][914]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var4)
+[2019.12.06-00.46.40:132][972]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var2)
+[2019.12.06-00.46.42:823][122]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var3)
+[2019.12.06-00.46.43:388][151]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var5)
+[2019.12.06-00.46.44:085][191]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var8)
+[2019.12.06-00.46.44:829][234]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var6)
+[2019.12.06-00.46.45:840][293]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var7)
+[2019.12.06-00.46.49:756][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-00.46.51:275][495]LogSlate: Window 'Message' being destroyed
+[2019.12.06-00.47.28:915][702]Cmd: DELETE
+[2019.12.06-00.47.28:915][702]Cmd: ACTOR DELETE
+[2019.12.06-00.47.28:923][702]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-00.47.28:949][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.12.06-00.47.28:983][702]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2019.12.06-00.47.33:588][973]Cmd: TRANSACTION UNDO
+[2019.12.06-00.47.33:588][973]LogEditorTransaction: Undo Delete Actors
+[2019.12.06-00.47.34:881][ 20]Cmd: TRANSACTION UNDO
+[2019.12.06-00.47.34:882][ 20]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.06-00.47.39:987][321]Cmd: DELETE
+[2019.12.06-00.47.39:987][321]Cmd: ACTOR DELETE
+[2019.12.06-00.47.39:994][321]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-00.47.40:020][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.12.06-00.47.40:050][321]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2019.12.06-00.47.59:708][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-00.49.35:926][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.49.36:032][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-00.49.36:056][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.12.06-00.49.36:191][ 98]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.12.06-00.49.36:497][ 98]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMapAD05D81147455EAC218DE5BCAAABC64C.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.06-00.49.36:530][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2019.12.06-00.49.36:538][ 98]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltData944C65904D1F2BDA5E1AF1829B6DC943.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
+[2019.12.06-00.49.50:567][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.49.53:010][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.49.53:077][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-00.49.53:086][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-00.49.53:086][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-00.49.53:086][ 77]PIE: New page: PIE session: MainMap (Dec 5, 2019, 12:49:53 PM)
+[2019.12.06-00.49.53:086][ 77]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2019.12.06-00.49.53:132][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046345s)
+[2019.12.06-00.49.53:132][ 77]LogAIModule: Creating AISystem for world MainMap
+[2019.12.06-00.49.53:133][ 77]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2019.12.06-00.49.53:133][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.047062s)
+[2019.12.06-00.49.53:157][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.12.06-00.49.53:163][ 77]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.06-00.49.53:353][ 77]LogInit: FAudioDevice initialized.
+[2019.12.06-00.49.53:379][ 77]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.06-00.49.53:386][ 77]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2019.12.05-18.49.53
+[2019.12.06-00.49.53:386][ 77]LogWorld: Bringing up level for play took: 0.006663
+[2019.12.06-00.49.53:401][ 77]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap -0.216
+[2019.12.06-00.49.53:401][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-00.51.09:522][609]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-00.51.09:522][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-00.51.09:557][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-00.51.09:557][609]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-00.51.09:590][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-00.51.09:594][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.12.06-00.51.09:683][610]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.12.06-00.52.13:687][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.52.38:129][928]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-00.55.27:866][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.55.29:246][  0]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.12.06-00.57.11:272][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_4)
+[2019.12.06-00.57.14:373][236]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.06-00.57.16:885][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_3)
+[2019.12.06-00.57.27:864][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_01_Wire)
+[2019.12.06-00.57.37:328][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_4)
+[2019.12.06-00.57.41:261][762]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.06-00.57.41:824][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_01_Wire2)
+[2019.12.06-00.57.58:845][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.58.06:846][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.58.28:938][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-00.58.33:589][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var81)
+[2019.12.06-00.58.34:065][900]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var83)
+[2019.12.06-00.58.34:711][937]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var84)
+[2019.12.06-00.59.01:441][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var106)
+[2019.12.06-00.59.03:534][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var103)
+[2019.12.06-00.59.05:420][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var105)
+[2019.12.06-00.59.07:977][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var102)
+[2019.12.06-00.59.11:196][ 30]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.06-00.59.11:937][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var100)
+[2019.12.06-00.59.14:681][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var99)
+[2019.12.06-00.59.18:189][430]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.06-00.59.18:786][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var101)
+[2019.12.06-00.59.21:766][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var110)
+[2019.12.06-00.59.24:715][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var111)
+[2019.12.06-00.59.43:992][937]Cmd: DELETE
+[2019.12.06-00.59.43:992][937]Cmd: ACTOR DELETE
+[2019.12.06-00.59.43:999][937]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-00.59.44:024][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.12.06-00.59.44:052][937]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2019.12.06-00.59.45:048][993]Cmd: DELETE
+[2019.12.06-00.59.45:048][993]Cmd: ACTOR DELETE
+[2019.12.06-00.59.45:055][993]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-00.59.45:077][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.12.06-00.59.45:106][993]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2019.12.06-00.59.45:865][ 35]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush26)
+[2019.12.06-00.59.47:029][ 89]Cmd: DELETE
+[2019.12.06-00.59.47:029][ 89]Cmd: ACTOR DELETE
+[2019.12.06-00.59.47:038][ 89]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-00.59.47:064][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.12.06-00.59.47:095][ 89]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2019.12.06-00.59.47:518][101]Cmd: DELETE
+[2019.12.06-00.59.47:518][101]Cmd: ACTOR DELETE
+[2019.12.06-00.59.47:525][101]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-00.59.47:549][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.12.06-00.59.47:578][101]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.12.06-00.59.48:116][119]Cmd: DELETE
+[2019.12.06-00.59.48:116][119]Cmd: ACTOR DELETE
+[2019.12.06-00.59.48:124][119]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-00.59.48:148][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.12.06-00.59.48:178][119]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.12.06-00.59.48:943][156]Cmd: DELETE
+[2019.12.06-00.59.48:943][156]Cmd: ACTOR DELETE
+[2019.12.06-00.59.48:952][156]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-00.59.48:975][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.12.06-00.59.49:004][156]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.12.06-00.59.49:815][195]Cmd: DELETE
+[2019.12.06-00.59.49:815][195]Cmd: ACTOR DELETE
+[2019.12.06-00.59.49:823][195]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-00.59.49:847][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.12.06-00.59.49:874][195]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2019.12.06-01.00.19:421][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.00.45:024][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.01.04:218][813]LogTexture: Display: Building textures: T_SandbagWall_01_M (AutoDXT, 2048X2048)
+[2019.12.06-01.01.04:218][813]LogTexture: Display: Building textures: T_SandbagWall_01_Albedo (AutoDXT, 4096X4096)
+[2019.12.06-01.01.04:218][813]LogTexture: Display: Building textures: T_SandbagWall_01_Normal (AutoDXT, 4096X4096)
+[2019.12.06-01.01.04:218][813]LogStaticMesh: Building static mesh SM_SandbagWall_01...
+[2019.12.06-01.01.05:662][813]LogStaticMesh: Built static mesh [1.44s] /Game/SandbagWalls/Meshes/SandbagWall_01/SM_SandbagWall_01.SM_SandbagWall_01
+[2019.12.06-01.01.05:782][813]LogActorFactory: Actor Factory created SM_SandbagWall_01
+[2019.12.06-01.01.09:429][ 20]LogActorFactory: Actor Factory created SM_SandbagWall_01
+[2019.12.06-01.01.14:861][339]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-01.01.14:902][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.12.06-01.01.14:903][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.06-01.01.15:043][339]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.12.06-01.01.15:436][339]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto6E6D7E5E543F6496AB94B83B74BCB214D.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto6.umap'
+[2019.12.06-01.01.15:437][339]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.559
+[2019.12.06-01.01.15:437][339]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.559
+[2019.12.06-01.01.29:909][520]LogTexture: Display: Building textures: T_SandbagWall_02_M (AutoDXT, 2048X2048)
+[2019.12.06-01.01.29:909][520]LogTexture: Display: Building textures: T_SandbagWall_02_Albedo (AutoDXT, 4096X4096)
+[2019.12.06-01.01.29:909][520]LogTexture: Display: Building textures: T_SandbagWall_02_Normal (AutoDXT, 4096X4096)
+[2019.12.06-01.01.29:909][520]LogStaticMesh: Building static mesh SM_SandbagWall_02...
+[2019.12.06-01.01.30:826][520]LogStaticMesh: Built static mesh [0.92s] /Game/SandbagWalls/Meshes/SandbagWall_02/SM_SandbagWall_02.SM_SandbagWall_02
+[2019.12.06-01.01.30:913][520]LogActorFactory: Actor Factory created SM_SandbagWall_02
+[2019.12.06-01.01.38:156][947]LogActorFactory: Actor Factory created SM_SandbagWall_02
+[2019.12.06-01.01.50:135][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallBend_2)
+[2019.12.06-01.01.54:747][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallBend_01)
+[2019.12.06-01.01.56:615][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallBend_3)
+[2019.12.06-01.01.57:791][ 93]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_SandbagWallBend_01)
+[2019.12.06-01.01.58:516][134]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_SandbagWallBend_2)
+[2019.12.06-01.01.59:695][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.02.03:290][407]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.06-01.02.05:442][531]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Idle_Rifle_Hip_Break1)
+[2019.12.06-01.02.13:976][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallBend_01)
+[2019.12.06-01.02.18:785][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.02.30:500][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallBend_2)
+[2019.12.06-01.02.43:344][664]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.06-01.02.43:869][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWall_02)
+[2019.12.06-01.02.45:185][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.02.52:876][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWall_01)
+[2019.12.06-01.02.54:092][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.02.58:211][539]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.06-01.02.59:844][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWall_01)
+[2019.12.06-01.03.01:590][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWall_02)
+[2019.12.06-01.03.03:993][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.03.10:105][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.03.10:458][228]LogActorFactory: Actor Factory created SM_SandbagWallBend_01
+[2019.12.06-01.03.11:396][281]LogActorFactory: Actor Factory created SM_SandbagWallBend_01
+[2019.12.06-01.03.12:624][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.03.20:451][790]LogStaticMesh: Building static mesh SM_SandbagWallCorner90_01...
+[2019.12.06-01.03.21:560][790]LogTexture: Display: Building textures: T_SandbagWallCorner90_01_M (AutoDXT, 2048X2048)
+[2019.12.06-01.03.21:560][790]LogStaticMesh: Built static mesh [1.11s] /Game/SandbagWalls/Meshes/SandbagWallCorner90_01/SM_SandbagWallCorner90_01.SM_SandbagWallCorner90_01
+[2019.12.06-01.03.31:627][790]LogTexture: Display: Building textures: T_SandbagWallCorner90_01_Albedo (AutoDXT, 4096X4096)
+[2019.12.06-01.03.31:627][790]LogTexture: Display: Building textures: T_SandbagWallCorner90_01_Normal (AutoDXT, 4096X4096)
+[2019.12.06-01.03.31:680][790]LogActorFactory: Actor Factory created SM_SandbagWallCorner90_01
+[2019.12.06-01.03.31:700][790]LogActorFactory: Actor Factory created SM_SandbagWallCorner90_01
+[2019.12.06-01.03.35:115][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.03.43:274][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.03.56:114][616]LogTexture: Display: Building textures: T_SandbagWallCorner90_02_M (AutoDXT, 2048X2048)
+[2019.12.06-01.03.56:114][616]LogTexture: Display: Building textures: T_SandbagWallCorner90_02_Albedo (AutoDXT, 4096X4096)
+[2019.12.06-01.03.56:114][616]LogTexture: Display: Building textures: T_SandbagWallCorner90_02_Normal (AutoDXT, 4096X4096)
+[2019.12.06-01.03.56:114][616]LogStaticMesh: Building static mesh SM_SandbagWallCorner90_02...
+[2019.12.06-01.03.57:785][616]LogStaticMesh: Built static mesh [1.67s] /Game/SandbagWalls/Meshes/SandbagWallCorner90_02/SM_SandbagWallCorner90_02.SM_SandbagWallCorner90_02
+[2019.12.06-01.03.57:861][616]LogActorFactory: Actor Factory created SM_SandbagWallCorner90_02
+[2019.12.06-01.04.59:068][274]LogActorFactory: Actor Factory created SM_SandbagWallCorner90_02
+[2019.12.06-01.05.00:217][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.05.06:698][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.05.10:041][888]LogTexture: Display: Building textures: T_SandbagWallDestroyed_01_M (AutoDXT, 2048X2048)
+[2019.12.06-01.05.10:042][888]LogStaticMesh: Building static mesh SM_SandbagWallDestroyed_01...
+[2019.12.06-01.05.11:131][888]LogStaticMesh: Built static mesh [1.09s] /Game/SandbagWalls/Meshes/SandbagWallDestroyed_01/SM_SandbagWallDestroyed_01.SM_SandbagWallDestroyed_01
+[2019.12.06-01.05.11:213][888]LogActorFactory: Actor Factory created SM_SandbagWallDestroyed_01
+[2019.12.06-01.05.12:134][941]LogActorFactory: Actor Factory created SM_SandbagWallDestroyed_01
+[2019.12.06-01.05.14:758][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.05.22:137][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.05.25:576][721]LogStaticMesh: Building static mesh SM_SandbagWallEnd_01...
+[2019.12.06-01.05.26:569][721]LogTexture: Display: Building textures: T_SandbagWallEnd_01_M (AutoDXT, 2048X2048)
+[2019.12.06-01.05.26:569][721]LogStaticMesh: Built static mesh [0.99s] /Game/SandbagWalls/Meshes/SandbagWallEnd_01/SM_SandbagWallEnd_01.SM_SandbagWallEnd_01
+[2019.12.06-01.05.36:596][721]LogTexture: Display: Building textures: T_SandbagWallEnd_01_Albedo (AutoDXT, 4096X4096)
+[2019.12.06-01.05.36:596][721]LogTexture: Display: Building textures: T_SandbagWallEnd_01_Normal (AutoDXT, 4096X4096)
+[2019.12.06-01.05.36:648][721]LogActorFactory: Actor Factory created SM_SandbagWallEnd_01
+[2019.12.06-01.05.36:665][721]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.06-01.05.38:102][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallEnd_01)
+[2019.12.06-01.05.39:064][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.05.46:100][275]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.06-01.05.52:083][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.05.55:146][795]LogStaticMesh: Building static mesh SM_SandbagWallLong_01...
+[2019.12.06-01.05.56:097][795]LogStaticMesh: Built static mesh [0.95s] /Game/SandbagWalls/Meshes/SandbagWallLong_01/SM_SandbagWallLong_01.SM_SandbagWallLong_01
+[2019.12.06-01.05.56:164][795]LogActorFactory: Actor Factory created SM_SandbagWallLong_01
+[2019.12.06-01.05.57:269][856]LogActorFactory: Actor Factory created SM_SandbagWallLong_01
+[2019.12.06-01.05.58:420][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.06.04:045][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.06.06:939][399]LogActorFactory: Actor Factory created SM_SandbagWallLong_02
+[2019.12.06-01.06.07:676][440]LogActorFactory: Actor Factory created SM_SandbagWallLong_02
+[2019.12.06-01.06.08:634][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.06.15:370][900]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.06-01.06.18:935][108]Cmd: DELETE
+[2019.12.06-01.06.18:935][108]Cmd: ACTOR DELETE
+[2019.12.06-01.06.18:944][108]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-01.06.18:970][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.12.06-01.06.18:997][108]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2019.12.06-01.06.20:723][209]Cmd: DELETE
+[2019.12.06-01.06.20:723][209]Cmd: ACTOR DELETE
+[2019.12.06-01.06.20:732][209]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-01.06.20:756][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.12.06-01.06.20:784][209]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.12.06-01.06.22:577][311]Cmd: DELETE
+[2019.12.06-01.06.22:577][311]Cmd: ACTOR DELETE
+[2019.12.06-01.06.22:587][311]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-01.06.22:612][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.12.06-01.06.22:640][311]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.12.06-01.06.37:744][190]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.06-01.06.45:027][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.07.20:421][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.07.29:508][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWall_01)
+[2019.12.06-01.07.32:327][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.07.35:494][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.07.57:723][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWall_02)
+[2019.12.06-01.07.59:635][997]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.06-01.08.00:438][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallCorner90_01)
+[2019.12.06-01.08.04:311][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallDestroyed_01)
+[2019.12.06-01.08.06:270][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallEnd_01)
+[2019.12.06-01.08.09:130][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallLong_02)
+[2019.12.06-01.08.15:214][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallBend_7)
+[2019.12.06-01.08.17:971][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallCorner90_02)
+[2019.12.06-01.08.50:825][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.09.35:680][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.09.42:292][ 38]Cmd: DELETE
+[2019.12.06-01.09.42:292][ 38]Cmd: ACTOR DELETE
+[2019.12.06-01.09.42:303][ 38]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-01.09.42:325][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.12.06-01.09.42:352][ 38]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2019.12.06-01.09.44:245][149]Cmd: DELETE
+[2019.12.06-01.09.44:245][149]Cmd: ACTOR DELETE
+[2019.12.06-01.09.44:256][149]LogEditorActor: Deleted Actor: Brush
+[2019.12.06-01.09.44:280][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.12.06-01.09.44:304][149]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2019.12.06-01.09.55:047][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.10.37:628][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-01.11.16:098][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.12.06-01.11.16:100][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.06-01.11.16:252][357]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.12.06-01.11.16:827][357]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto7522ADC2349DCE1D47F81CD859805277D.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto7.umap'
+[2019.12.06-01.11.16:981][357]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.906
+[2019.12.06-01.11.16:981][357]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.906
+[2019.12.06-01.19.44:677][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-01.20.05:171][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.20.29:335][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.20.41:630][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.21.33:313][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-01.21.33:352][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.12.06-01.21.33:353][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.06-01.21.33:501][  5]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.12.06-01.21.33:989][  5]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto880C5EEF6421B98208E717E94AE7A4BE9.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto8.umap'
+[2019.12.06-01.21.33:991][  5]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.665
+[2019.12.06-01.21.33:991][  5]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.665
+[2019.12.06-01.23.40:861][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-01.31.34:222][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.12.06-01.31.34:223][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.06-01.31.34:787][638]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.12.06-01.31.35:284][638]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto96F863D7D4B35CC25804460822A7C727A.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto9.umap'
+[2019.12.06-01.31.35:285][638]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 1.092
+[2019.12.06-01.31.35:285][638]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.092
+[2019.12.06-01.32.27:175][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.32.34:214][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var85)
+[2019.12.06-01.32.35:010][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var82)
+[2019.12.06-01.32.49:891][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var112)
+[2019.12.06-01.33.02:019][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-01.33.15:601][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var85)
+[2019.12.06-01.33.27:010][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var113)
+[2019.12.06-01.33.36:184][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var112)
+[2019.12.06-01.33.44:275][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var113)
+[2019.12.06-01.33.50:720][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.33.53:957][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.33.56:529][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var112)
+[2019.12.06-01.33.59:810][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.34.02:287][ 26]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.06-01.34.04:284][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var85)
+[2019.12.06-01.34.08:645][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var82)
+[2019.12.06-01.37.22:153][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-01.41.35:450][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.12.06-01.41.35:451][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.06-01.41.35:643][725]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.12.06-01.41.36:763][725]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto0891F38104FEFD11FA7264A902EED127E.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto0.umap'
+[2019.12.06-01.41.36:766][725]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 1.351
+[2019.12.06-01.41.36:766][725]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.351
+[2019.12.06-01.59.03:251][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var113)
+[2019.12.06-01.59.05:088][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-01.59.08:411][973]Cmd: TRANSACTION UNDO
+[2019.12.06-01.59.08:411][973]LogEditorTransaction: Undo Move Actors
+[2019.12.06-01.59.42:104][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var84)
+[2019.12.06-01.59.57:941][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var84)
+[2019.12.06-02.00.04:052][246]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.06-02.00.04:597][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var83)
+[2019.12.06-02.00.07:056][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var81)
+[2019.12.06-02.00.24:791][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var115)
+[2019.12.06-02.00.38:219][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var45)
+[2019.12.06-02.00.44:118][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.00.49:780][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.00.54:300][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.00.57:426][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.01.29:615][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.01.34:480][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.01.49:599][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.02.00:712][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.02.20:059][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.02.22:687][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.02.29:957][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var115)
+[2019.12.06-02.02.30:862][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var117)
+[2019.12.06-02.02.58:143][433]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-02.02.58:183][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.12.06-02.02.58:184][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.06-02.02.58:808][433]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto1CAAC72B44B88838E553E319B66DDA1F8.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto1.umap'
+[2019.12.06-02.02.58:862][433]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.706
+[2019.12.06-02.02.58:862][433]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.706
+[2019.12.06-02.03.04:436][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var115)
+[2019.12.06-02.04.23:549][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var81)
+[2019.12.06-02.04.24:460][432]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var83)
+[2019.12.06-02.04.25:300][480]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var84)
+[2019.12.06-02.04.25:743][504]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var115)
+[2019.12.06-02.04.27:442][603]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var117)
+[2019.12.06-02.04.28:381][657]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var118)
+[2019.12.06-02.05.02:963][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var47)
+[2019.12.06-02.05.10:696][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var45)
+[2019.12.06-02.05.16:582][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var46)
+[2019.12.06-02.05.32:443][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.05.32:577][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-02.05.32:605][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.12.06-02.05.33:222][388]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap9C3955044BDB916DBF399C98A48D29FA.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.06-02.05.33:406][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2019.12.06-02.05.33:416][388]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltDataBC40A04848F3BB02ACDC2698F09AE463.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
+[2019.12.06-02.05.44:992][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var80)
+[2019.12.06-02.05.47:510][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.06.05:806][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var81)
+[2019.12.06-02.06.07:219][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.06.14:786][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var83)
+[2019.12.06-02.06.18:040][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var84)
+[2019.12.06-02.06.22:997][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var115)
+[2019.12.06-02.06.26:642][494]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.06-02.06.33:682][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var117)
+[2019.12.06-02.06.36:966][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.06.42:926][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.06.48:341][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.06.48:425][767]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-02.06.48:435][767]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-02.06.48:435][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-02.06.48:435][767]PIE: New page: PIE session: MainMap (Dec 5, 2019, 2:06:48 PM)
+[2019.12.06-02.06.48:435][767]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2019.12.06-02.06.48:484][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049349s)
+[2019.12.06-02.06.48:485][767]LogAIModule: Creating AISystem for world MainMap
+[2019.12.06-02.06.48:486][767]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2019.12.06-02.06.48:486][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.050903s)
+[2019.12.06-02.06.48:521][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.12.06-02.06.48:532][767]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.06-02.06.48:716][767]LogInit: FAudioDevice initialized.
+[2019.12.06-02.06.48:749][767]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.06-02.06.48:759][767]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2019.12.05-20.06.48
+[2019.12.06-02.06.48:760][767]LogWorld: Bringing up level for play took: 0.009680
+[2019.12.06-02.06.48:775][767]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap 1.158
+[2019.12.06-02.06.48:775][767]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-02.09.58:478][ 72]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11602.115 Y=-808.813 Z=1441.299] for [FirstPersonProjectile_C]
+[2019.12.06-02.10.52:573][260]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-02.10.52:573][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-02.10.52:606][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-02.10.52:607][260]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-02.10.52:640][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-02.10.52:645][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.12.06-02.10.52:674][262]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.06-02.12.04:458][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.12.04:558][501]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-02.12.04:567][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-02.12.04:567][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-02.12.04:567][501]PIE: New page: PIE session: MainMap (Dec 5, 2019, 2:12:04 PM)
+[2019.12.06-02.12.04:567][501]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2019.12.06-02.12.04:609][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041842s)
+[2019.12.06-02.12.04:609][501]LogAIModule: Creating AISystem for world MainMap
+[2019.12.06-02.12.04:610][501]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2019.12.06-02.12.04:610][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.042594s)
+[2019.12.06-02.12.04:634][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.12.06-02.12.04:640][501]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.06-02.12.04:831][501]LogInit: FAudioDevice initialized.
+[2019.12.06-02.12.04:862][501]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.06-02.12.04:869][501]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2019.12.05-20.12.04
+[2019.12.06-02.12.04:870][501]LogWorld: Bringing up level for play took: 0.006818
+[2019.12.06-02.12.04:883][501]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap 1.266
+[2019.12.06-02.12.04:883][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-02.12.14:158][ 49]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-02.12.14:158][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-02.12.14:194][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-02.12.14:194][ 49]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.06-02.12.14:225][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-02.12.14:229][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.12.06-02.12.14:288][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.12.06-02.12.25:273][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var116)
+[2019.12.06-02.13.22:864][581]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-02.13.26:440][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var115)
+[2019.12.06-02.13.57:804][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var119)
+[2019.12.06-02.14.17:148][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var108)
+[2019.12.06-02.14.24:228][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.14.29:310][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.14.37:152][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.14.39:853][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.14.43:341][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.14.49:737][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.14.59:937][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var119)
+[2019.12.06-02.15.13:283][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var121)
+[2019.12.06-02.15.14:684][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.15.18:253][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.15.25:977][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var118)
+[2019.12.06-02.16.00:046][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var41)
+[2019.12.06-02.16.03:243][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var43)
+[2019.12.06-02.16.07:921][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var41)
+[2019.12.06-02.16.10:281][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var40)
+[2019.12.06-02.16.13:898][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var42)
+[2019.12.06-02.16.20:594][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var44)
+[2019.12.06-02.16.25:170][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var37)
+[2019.12.06-02.16.28:394][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var35)
+[2019.12.06-02.16.42:078][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var34)
+[2019.12.06-02.16.42:827][ 92]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var33)
+[2019.12.06-02.16.43:708][142]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var31)
+[2019.12.06-02.16.44:574][191]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var30)
+[2019.12.06-02.16.45:292][231]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var32)
+[2019.12.06-02.16.46:408][295]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var39)
+[2019.12.06-02.17.05:611][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var47)
+[2019.12.06-02.17.06:567][454]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var46)
+[2019.12.06-02.17.08:112][544]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var45)
+[2019.12.06-02.17.09:111][601]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var42)
+[2019.12.06-02.17.10:143][660]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var41)
+[2019.12.06-02.17.11:027][710]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var40)
+[2019.12.06-02.17.11:925][761]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var43)
+[2019.12.06-02.17.12:823][812]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var44)
+[2019.12.06-02.17.13:722][863]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var37)
+[2019.12.06-02.17.14:656][916]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var35)
+[2019.12.06-02.17.15:355][955]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var36)
+[2019.12.06-02.17.16:218][  4]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var38)
+[2019.12.06-02.17.54:547][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var76)
+[2019.12.06-02.18.54:223][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var73)
+[2019.12.06-02.19.21:599][356]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var123)
+[2019.12.06-02.19.22:660][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.19.28:730][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.19.37:689][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var123)
+[2019.12.06-02.19.42:045][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var124)
+[2019.12.06-02.20.23:024][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-02.20.23:064][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.12.06-02.20.23:065][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.06-02.20.23:502][981]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto2B61790A24DFEA37BD91097AC6339F134.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto2.umap'
+[2019.12.06-02.20.23:557][981]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.516
+[2019.12.06-02.20.23:557][981]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.516
+[2019.12.06-02.22.49:692][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.23.06:802][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.06-02.23.18:442][  8]Cmd: TRANSACTION UNDO
+[2019.12.06-02.23.18:442][  8]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.12.06-02.23.18:777][  8]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.12.06-02.23.26:644][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.30.23:883][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.12.06-02.30.23:883][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.06-02.30.24:023][152]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 512X512)
+[2019.12.06-02.30.24:409][152]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto342566B7B4025D4213D7605A63785294B.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto3.umap'
+[2019.12.06-02.30.24:411][152]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.555
+[2019.12.06-02.30.24:411][152]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.555
+[2019.12.06-02.31.26:623][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.31.29:273][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var122)
+[2019.12.06-02.31.50:400][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.32.41:343][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.32.49:983][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.33.01:255][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-02.33.03:396][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
