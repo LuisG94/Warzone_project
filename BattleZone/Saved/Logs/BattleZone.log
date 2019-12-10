@@ -2505,3 +2505,905 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-21.40.10:038][649]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto420A4C5BB4D43D12387BBB2A1AFFA9322.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto4.umap'
 [2019.12.10-21.40.10:102][649]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.761
 [2019.12.10-21.40.10:102][649]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.761
+[2019.12.10-21.40.31:812][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-21.40.45:279][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-21.40.45:356][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.10-21.40.45:932][485]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap9EB0CBD44D8B9992A6859585D1CFB93E.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.10-21.40.46:179][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2019.12.10-21.40.46:338][485]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltData33EF0B674BD2C11422D562926BD63557.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
+[2019.12.10-21.40.55:617][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.41.00:434][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.41.05:477][429]LogMaterial: Display: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2019.12.10-21.41.17:669][114]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.10-21.41.19:757][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.41.33:977][986]LogStaticMesh: Building static mesh SM_FieldGrass_01...
+[2019.12.10-21.41.34:241][986]LogStaticMesh: Built static mesh [0.26s] /Game/TheHut/AssetsEpic/KiteDemo/Environments/Foliage/Grass/FieldGrass/SM_FieldGrass_01.SM_FieldGrass_01
+[2019.12.10-21.41.34:255][986]LogMaterial: Display: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2019.12.10-21.43.31:348][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.43.48:880][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.44.30:641][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.44.39:346][438]Cmd: TRANSACTION UNDO
+[2019.12.10-21.44.39:346][438]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-21.45.02:598][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.45.09:245][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.45.21:875][909]Cmd: TRANSACTION UNDO
+[2019.12.10-21.45.21:875][909]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-21.46.18:240][190]Cmd: TRANSACTION UNDO
+[2019.12.10-21.46.18:240][190]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-21.46.51:882][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.48.01:729][180]Cmd: TRANSACTION UNDO
+[2019.12.10-21.48.01:729][180]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-21.48.24:326][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.48.37:099][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.48.37:217][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-21.48.37:372][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.12.10-21.48.37:879][236]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap7D2535294995632CA66D27A2BD660318.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.10-21.48.37:895][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2019.12.10-21.48.37:928][236]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltData4F39A95F41DBBB40C52C2C816EF2F5CB.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
+[2019.12.10-21.48.46:789][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.49.20:344][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.49.45:384][800]LogStaticMesh: Building static mesh SM_grass_bush_simple_04...
+[2019.12.10-21.49.45:420][800]LogStaticMesh: Built static mesh [0.04s] /Game/Environment_Set/Environment/Foliage/Models/SM_grass_bush_simple_04.SM_grass_bush_simple_04
+[2019.12.10-21.49.45:585][800]LogActorFactory: Actor Factory created SM_grass_bush_simple_04
+[2019.12.10-21.49.46:342][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-21.49.51:802][959]LogTexture: Display: Building textures: T_ground_foliage_01_N (AutoDXT, 2048X2048)
+[2019.12.10-21.49.51:802][959]LogTexture: Display: Building textures: T_ground_foliage_01_BC_M (AutoDXT, 2048X2048)
+[2019.12.10-21.49.51:802][959]LogTexture: Display: Building textures: T_ground_foliage_01_MT_R_AO (AutoDXT, 2048X2048)
+[2019.12.10-21.49.51:802][959]LogStaticMesh: Building static mesh SM_ground_foliage_01...
+[2019.12.10-21.49.51:841][959]LogStaticMesh: Built static mesh [0.04s] /Game/Environment_Set/Environment/Foliage/Models/SM_ground_foliage_01.SM_ground_foliage_01
+[2019.12.10-21.49.53:342][ 25]LogStaticMesh: Building static mesh SM_ground_foliage_01_flowery...
+[2019.12.10-21.49.53:385][ 25]LogStaticMesh: Built static mesh [0.04s] /Game/Environment_Set/Environment/Foliage/Models/SM_ground_foliage_01_flowery.SM_ground_foliage_01_flowery
+[2019.12.10-21.49.53:493][ 25]LogActorFactory: Actor Factory created SM_ground_foliage_01_flowery
+[2019.12.10-21.49.54:081][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-21.49.59:094][209]LogTexture: Display: Building textures: T_forest_heather_01_N (BC5, 2048X1024)
+[2019.12.10-21.49.59:094][209]LogTexture: Display: Building textures: T_forest_heather_01_MT_R_AO (AutoDXT, 2048X1024)
+[2019.12.10-21.49.59:094][209]LogTexture: Display: Building textures: T_forest_heather_01_BC_M (AutoDXT, 2048X1024)
+[2019.12.10-21.49.59:094][209]LogStaticMesh: Building static mesh SM_forest_heather_01...
+[2019.12.10-21.49.59:134][209]LogStaticMesh: Built static mesh [0.04s] /Game/Environment_Set/Environment/Foliage/Models/SM_forest_heather_01.SM_forest_heather_01
+[2019.12.10-21.50.01:550][331]LogStaticMesh: Building static mesh SM_forest_heather_simple_01...
+[2019.12.10-21.50.01:583][331]LogStaticMesh: Built static mesh [0.03s] /Game/Environment_Set/Environment/Foliage/Models/SM_forest_heather_simple_01.SM_forest_heather_simple_01
+[2019.12.10-21.51.49:387][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.53.50:125][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.54.40:893][116]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-21.55.13:771][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.55.13:876][789]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.12.10-21.55.15:877][904]Cmd: DELETE
+[2019.12.10-21.55.15:877][904]Cmd: ACTOR DELETE
+[2019.12.10-21.55.15:978][904]LogEditorActor: Deleted Actor: Brush
+[2019.12.10-21.55.16:010][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.10-21.55.16:014][904]LogEditorActor: Deleted 1 Actors (0.138 secs)
+[2019.12.10-21.55.18:781][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.56.21:701][538]Cmd: TRANSACTION UNDO
+[2019.12.10-21.56.21:701][538]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-21.56.23:440][633]Cmd: TRANSACTION UNDO
+[2019.12.10-21.56.23:440][633]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-21.56.24:092][670]Cmd: TRANSACTION UNDO
+[2019.12.10-21.56.24:092][670]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-21.56.24:507][691]Cmd: TRANSACTION UNDO
+[2019.12.10-21.56.24:507][691]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-21.56.38:298][452]Cmd: TRANSACTION UNDO
+[2019.12.10-21.56.38:298][452]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-21.56.38:680][467]Cmd: TRANSACTION UNDO
+[2019.12.10-21.56.38:680][467]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-21.56.39:085][486]Cmd: TRANSACTION UNDO
+[2019.12.10-21.56.39:085][486]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-21.56.39:530][509]Cmd: TRANSACTION UNDO
+[2019.12.10-21.56.39:530][509]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-21.56.40:005][533]Cmd: TRANSACTION UNDO
+[2019.12.10-21.56.40:005][533]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-21.57.06:330][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.58.45:425][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.58.45:560][703]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-21.58.45:849][703]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-21.58.45:850][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-21.58.45:897][703]PIE: New page: PIE session: MainMap (Dec 10, 2019, 9:58:45 AM)
+[2019.12.10-21.58.45:898][703]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2019.12.10-21.58.46:054][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.156032s)
+[2019.12.10-21.58.46:569][703]LogAIModule: Creating AISystem for world MainMap
+[2019.12.10-21.58.46:630][703]LogPlayLevel: PIE: World Init took: (0.575324s)
+[2019.12.10-21.58.46:630][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.731710s)
+[2019.12.10-21.58.46:664][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.12.10-21.58.46:711][703]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.10-21.58.46:724][703]LogInit: FAudioDevice initialized.
+[2019.12.10-21.58.47:010][703]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-21.58.47:093][703]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2019.12.10-15.58.47
+[2019.12.10-21.58.47:129][703]LogWorld: Bringing up level for play took: 0.080598
+[2019.12.10-21.58.47:654][703]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap 1.137
+[2019.12.10-21.58.47:654][703]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-21.59.26:763][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-21.59.26:763][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-21.59.27:108][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-21.59.27:109][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-21.59.27:144][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-21.59.27:322][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.12.10-21.59.27:343][  6]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.10-21.59.28:357][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-21.59.28:493][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-21.59.28:520][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.12.10-21.59.29:137][ 61]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMapFEA891BD4DC43C4EFEB044AF2D0B2EEB.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.10-21.59.29:152][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2019.12.10-21.59.29:162][ 61]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltDataC67BDF3942D14E975CDB62A2DB2DD593.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
+[2019.12.10-22.00.09:824][336]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-22.02.06:970][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.02.20:181][667]Cmd: TRANSACTION UNDO
+[2019.12.10-22.02.20:181][667]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-22.02.27:868][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.02.28:870][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (T-62_Static2)
+[2019.12.10-22.02.32:184][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SU_152_static)
+[2019.12.10-22.02.34:848][488]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.12.10-22.02.36:579][572]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SU_152_static2)
+[2019.12.10-22.02.50:834][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_01)
+[2019.12.10-22.02.54:136][598]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HedgeHogMetal_3)
+[2019.12.10-22.02.55:463][674]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HedgeHogMetal_2)
+[2019.12.10-22.02.57:583][796]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HedgeHogMetal_01_Wire3)
+[2019.12.10-22.02.59:380][900]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2019.12.10-22.03.01:503][ 17]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HedgeHogMetal_01_Wire)
+[2019.12.10-22.03.02:432][ 69]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HedgeHogMetal_4)
+[2019.12.10-22.03.03:708][142]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HedgeHogMetal_01_Wire2)
+[2019.12.10-22.03.11:147][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.03.51:918][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.04.30:425][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.05.05:333][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.08.42:938][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.08.47:033][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.09.27:441][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.09.34:224][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.10.25:637][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.10.51:930][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.11.24:221][978]Cmd: TRANSACTION UNDO
+[2019.12.10-22.11.24:222][978]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-22.11.24:926][  6]Cmd: TRANSACTION UNDO
+[2019.12.10-22.11.24:926][  6]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-22.11.26:051][ 73]Cmd: TRANSACTION UNDO
+[2019.12.10-22.11.26:051][ 73]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-22.11.26:586][104]Cmd: TRANSACTION UNDO
+[2019.12.10-22.11.26:586][104]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-22.11.27:353][146]Cmd: TRANSACTION UNDO
+[2019.12.10-22.11.27:353][146]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-22.11.27:740][164]Cmd: TRANSACTION UNDO
+[2019.12.10-22.11.27:741][164]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-22.11.28:125][187]Cmd: TRANSACTION UNDO
+[2019.12.10-22.11.28:125][187]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-22.11.28:407][200]Cmd: TRANSACTION UNDO
+[2019.12.10-22.11.28:407][200]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-22.11.28:753][217]Cmd: TRANSACTION UNDO
+[2019.12.10-22.11.28:753][217]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-22.11.29:136][236]Cmd: TRANSACTION UNDO
+[2019.12.10-22.11.29:136][236]LogEditorTransaction: Undo Foliage Editing
+[2019.12.10-22.13.03:957][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.12.10-22.13.03:958][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.10-22.13.04:900][491]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto51DD53A584ECD23CD748555B8DAE7D147.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto5.umap'
+[2019.12.10-22.13.05:011][491]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 1.084
+[2019.12.10-22.13.05:011][491]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.084
+[2019.12.10-22.13.05:021][491]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheHut/FoliageType/HillTree_Tall_01_FoliageType] ([1] browsable assets)...
+[2019.12.10-22.13.05:248][491]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/TheHut/FoliageType/HillTree_Tall_01_FoliageType.HillTree_Tall_01_FoliageType]
+[2019.12.10-22.13.05:248][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheHut/FoliageType/HillTree_Tall_01_FoliageType]
+[2019.12.10-22.13.05:318][491]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/HillTree_Tall_01_FoliageType_Aut20A9368549D9DABC275000A094AD2C82.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/TheHut/FoliageType/HillTree_Tall_01_FoliageType_Auto5.uasset'
+[2019.12.10-22.13.05:319][491]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheHut/FoliageType/HillTree_Tall_02_FoliageType] ([1] browsable assets)...
+[2019.12.10-22.13.05:353][491]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/TheHut/FoliageType/HillTree_Tall_02_FoliageType.HillTree_Tall_02_FoliageType]
+[2019.12.10-22.13.05:354][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheHut/FoliageType/HillTree_Tall_02_FoliageType]
+[2019.12.10-22.13.05:365][491]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/HillTree_Tall_02_FoliageType_Aut0D7379BE403812DC9E8E639DC46559EF.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/TheHut/FoliageType/HillTree_Tall_02_FoliageType_Auto5.uasset'
+[2019.12.10-22.13.05:366][491]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheHut/FoliageType/SM_FieldGrass_02_FoliageType] ([1] browsable assets)...
+[2019.12.10-22.13.05:397][491]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/TheHut/FoliageType/SM_FieldGrass_02_FoliageType.SM_FieldGrass_02_FoliageType]
+[2019.12.10-22.13.05:397][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheHut/FoliageType/SM_FieldGrass_02_FoliageType]
+[2019.12.10-22.13.05:408][491]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/SM_FieldGrass_02_FoliageType_AutC745910B4C1F442208F79D9763548BDF.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/TheHut/FoliageType/SM_FieldGrass_02_FoliageType_Auto5.uasset'
+[2019.12.10-22.13.05:408][491]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheHut/FoliageType/SM_FieldGrass_01_FoliageType] ([1] browsable assets)...
+[2019.12.10-22.13.05:439][491]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/TheHut/FoliageType/SM_FieldGrass_01_FoliageType.SM_FieldGrass_01_FoliageType]
+[2019.12.10-22.13.05:439][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheHut/FoliageType/SM_FieldGrass_01_FoliageType]
+[2019.12.10-22.13.05:537][491]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/SM_FieldGrass_01_FoliageType_AutFFD733FB4E39689FB9E8089E56189755.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/TheHut/FoliageType/SM_FieldGrass_01_FoliageType_Auto5.uasset'
+[2019.12.10-22.13.05:539][491]LogFileHelpers: Auto-saving content packages took 0.519
+[2019.12.10-22.14.06:276][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.14.06:374][198]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-22.14.06:382][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-22.14.06:382][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-22.14.06:382][198]PIE: New page: PIE session: MainMap (Dec 10, 2019, 10:14:06 AM)
+[2019.12.10-22.14.06:383][198]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2019.12.10-22.14.06:447][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064158s)
+[2019.12.10-22.14.06:447][198]LogAIModule: Creating AISystem for world MainMap
+[2019.12.10-22.14.06:448][198]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2019.12.10-22.14.06:448][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.064984s)
+[2019.12.10-22.14.06:477][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.12.10-22.14.06:487][198]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.10-22.14.06:499][198]LogInit: FAudioDevice initialized.
+[2019.12.10-22.14.06:530][198]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-22.14.06:542][198]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2019.12.10-16.14.06
+[2019.12.10-22.14.06:544][198]LogWorld: Bringing up level for play took: 0.012499
+[2019.12.10-22.14.06:559][198]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap 0.042
+[2019.12.10-22.14.06:559][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-22.15.05:842][736]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-22.15.05:842][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-22.15.05:883][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-22.15.05:883][736]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-22.15.05:924][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-22.15.05:932][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.12.10-22.15.05:959][737]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.12.10-22.15.08:921][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.15.09:023][895]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.12.10-22.15.24:431][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.15.25:719][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-22.15.57:782][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.15.57:954][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-22.15.58:200][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.10-22.15.59:009][554]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMapF39AC55B45B91E1A9E8FB7BFB0D2E8A8.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.10-22.15.59:044][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2019.12.10-22.15.59:070][554]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltData8EF5246742A2D6F509ED4EAC4B3D6D7B.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
+[2019.12.10-22.16.00:293][614]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-22.16.00:306][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-22.16.00:306][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-22.16.00:306][614]PIE: New page: PIE session: MainMap (Dec 10, 2019, 10:16:00 AM)
+[2019.12.10-22.16.00:307][614]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2019.12.10-22.16.00:387][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079879s)
+[2019.12.10-22.16.00:389][614]LogAIModule: Creating AISystem for world MainMap
+[2019.12.10-22.16.00:390][614]LogPlayLevel: PIE: World Init took: (0.002396s)
+[2019.12.10-22.16.00:390][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.082844s)
+[2019.12.10-22.16.00:421][614]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.12.10-22.16.00:431][614]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.10-22.16.00:444][614]LogInit: FAudioDevice initialized.
+[2019.12.10-22.16.00:474][614]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-22.16.00:488][614]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2019.12.10-16.16.00
+[2019.12.10-22.16.00:667][614]LogWorld: Bringing up level for play took: 0.192061
+[2019.12.10-22.16.00:681][614]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap 0.164
+[2019.12.10-22.16.00:681][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-22.16.31:104][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-22.16.31:104][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-22.16.31:147][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-22.16.31:147][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-22.16.31:183][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-22.16.31:191][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.12.10-22.16.31:213][433]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.12.10-22.16.35:798][688]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2019.12.10-22.16.44:129][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.16.53:346][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.17.15:081][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.17.35:193][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.17.35:293][123]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-22.17.35:302][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-22.17.35:302][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-22.17.35:302][123]PIE: New page: PIE session: MainMap (Dec 10, 2019, 10:17:35 AM)
+[2019.12.10-22.17.35:302][123]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2019.12.10-22.17.35:366][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064052s)
+[2019.12.10-22.17.35:366][123]LogAIModule: Creating AISystem for world MainMap
+[2019.12.10-22.17.35:366][123]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2019.12.10-22.17.35:367][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.064825s)
+[2019.12.10-22.17.35:396][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.12.10-22.17.35:404][123]LogInit: XAudio2 using 'ROG PG248Q (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.10-22.17.35:415][123]LogInit: FAudioDevice initialized.
+[2019.12.10-22.17.35:447][123]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.10-22.17.35:458][123]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2019.12.10-16.17.35
+[2019.12.10-22.17.35:459][123]LogWorld: Bringing up level for play took: 0.011381
+[2019.12.10-22.17.35:473][123]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMap 0.956
+[2019.12.10-22.17.35:473][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-22.18.22:594][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-22.18.22:594][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-22.18.22:629][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-22.18.22:630][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Maps/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Maps/MainMap.MainMap:PersistentLevel.MainMap'
+[2019.12.10-22.18.22:666][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-22.18.22:673][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.12.10-22.18.22:695][922]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.12.10-22.18.24:303][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.18.32:988][395]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.12.10-22.18.40:889][624]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.12.10-22.19.00:696][770]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-22.21.08:485][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.12.10-22.21.08:532][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-22.21.08:573][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.12.10-22.21.09:676][211]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap01CC72584A8733FC207C63BAAD1E5795.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.10-22.21.09:691][211]LogFileHelpers: Saving map 'MainMap' took 1.160
+[2019.12.10-22.21.09:698][211]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/HillTree_Tall_01_FoliageTypeA6B538B44F244681EE1756B281834ADF.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/TheHut/FoliageType/HillTree_Tall_01_FoliageType.uasset'
+[2019.12.10-22.21.09:807][211]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/HillTree_Tall_02_FoliageType63985BE44CC4DCA9608A19AA61A836A9.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/TheHut/FoliageType/HillTree_Tall_02_FoliageType.uasset'
+[2019.12.10-22.21.09:922][211]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/SM_FieldGrass_02_FoliageType822259E04CD8451685FAA0A34EA94D4A.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/TheHut/FoliageType/SM_FieldGrass_02_FoliageType.uasset'
+[2019.12.10-22.21.09:932][211]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/SM_FieldGrass_01_FoliageType824411664D3E3153321265BB59296AE5.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/TheHut/FoliageType/SM_FieldGrass_01_FoliageType.uasset'
+[2019.12.10-22.24.00:152][201]MapCheck: New page: Map Check
+[2019.12.10-22.24.00:320][201]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.10-22.24.00:324][201]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.10-22.24.01:070][201]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.12.10-22.24.01:130][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.12.10-22.24.01:437][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:472][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:479][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:515][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:525][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:541][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:575][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:593][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:609][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:621][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:640][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:657][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:672][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:699][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:710][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:728][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:744][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:761][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.12.10-22.24.01:825][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:836][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:843][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:850][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:857][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:871][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:879][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:919][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:950][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:957][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:969][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.01:981][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.02:015][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.02:046][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.02:094][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.02:114][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.02:133][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.02:161][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.02:210][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.10-22.24.06:545][201]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.12.10-22.24.06:545][201]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.12.10-22.24.06:545][201]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.12.10-22.24.06:545][201]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.12.10-22.24.06:545][201]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.10-22.24.06:545][201]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.10-22.24.06:545][201]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.10-22.24.06:545][201]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.10-22.24.06:545][201]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.10-22.24.06:545][201]TextureStreamingBuild: Display: Compiling optional shaders took 5.320 seconds.
+[2019.12.10-22.24.06:916][201]LogLevel: Display: Export Material TexCoord Scales took 0.371 seconds.
+[2019.12.10-22.24.07:187][201]TextureStreamingBuild: Display: Build Texture Streaming took 0.248 seconds.
+[2019.12.10-22.24.07:235][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.12.10-22.24.07:258][201]LogEditorBuildUtils: Build time 0:06
+[2019.12.10-22.24.13:573][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SU_152_static2)
+[2019.12.10-22.24.14:629][487]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (P_Fire)
+[2019.12.10-22.24.16:127][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.24.28:109][206]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.12.10-22.24.30:366][335]Cmd: TRANSACTION UNDO
+[2019.12.10-22.24.30:366][335]LogEditorTransaction: Undo Move Actors
+[2019.12.10-22.24.31:535][395]Cmd: TRANSACTION UNDO
+[2019.12.10-22.24.31:535][395]LogEditorTransaction: Undo Move Actors
+[2019.12.10-22.24.35:473][627]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SU_152_static2)
+[2019.12.10-22.24.52:189][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SU_152_static)
+[2019.12.10-22.25.05:326][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (T-62_Static2)
+[2019.12.10-22.25.25:817][544]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.10-22.25.36:066][112]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HedgeHogMetal_01_Wire3)
+[2019.12.10-22.25.39:445][290]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HedgeHogMetal_2)
+[2019.12.10-22.25.42:031][426]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HedgeHogMetal_3)
+[2019.12.10-22.25.43:301][492]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HedgeHogMetal_01)
+[2019.12.10-22.25.47:652][723]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HedgeHogMetal_01_Wire)
+[2019.12.10-22.25.49:158][808]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HedgeHogMetal_4)
+[2019.12.10-22.25.50:769][899]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_HedgeHogMetal_01_Wire2)
+[2019.12.10-22.26.01:362][460]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.10-22.26.05:441][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_3)
+[2019.12.10-22.26.12:230][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.26.15:588][257]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.10-22.26.25:884][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_01_Wire2)
+[2019.12.10-22.26.27:421][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.26.40:228][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_4)
+[2019.12.10-22.27.07:846][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_01_Wire)
+[2019.12.10-22.27.23:176][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.27.26:499][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.27.36:436][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.27.40:772][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.27.56:223][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.27.56:366][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-22.27.56:614][937]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.12.10-22.27.57:585][937]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMapA9CB077A412DFE57F1DFB5958321A364.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.10-22.27.57:602][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2019.12.10-22.27.57:630][937]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltDataE8BB389E447DD90B5C74A4856AC74CBF.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
+[2019.12.10-22.28.33:056][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.28.46:646][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.28.53:950][ 23]Cmd: DELETE
+[2019.12.10-22.28.53:950][ 23]Cmd: ACTOR DELETE
+[2019.12.10-22.28.53:963][ 23]LogEditorActor: Deleted Actor: AudioVolume
+[2019.12.10-22.28.54:309][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.12.10-22.28.54:310][ 23]LogEditorActor: Deleted 1 Actors (0.359 secs)
+[2019.12.10-22.29.08:183][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SU_152_static)
+[2019.12.10-22.29.10:323][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SU_152_static)
+[2019.12.10-22.29.11:134][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.29.20:279][528]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.10-22.30.05:896][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var166)
+[2019.12.10-22.30.07:608][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.30.22:211][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.30.24:976][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.30.38:104][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.30.42:521][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.30.54:779][972]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.12.10-22.30.56:328][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Post_A3)
+[2019.12.10-22.30.57:641][137]Cmd: DELETE
+[2019.12.10-22.30.57:641][137]Cmd: ACTOR DELETE
+[2019.12.10-22.30.57:653][137]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.10-22.30.57:690][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.12.10-22.30.57:690][137]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.12.10-22.31.06:635][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallLong_2)
+[2019.12.10-22.31.19:102][305]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonIdle)
+[2019.12.10-22.31.33:357][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.31.37:682][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.32.02:759][690]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonIdle3)
+[2019.12.10-22.32.22:233][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var81)
+[2019.12.10-22.32.22:966][809]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var83)
+[2019.12.10-22.32.23:745][851]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var84)
+[2019.12.10-22.32.24:614][899]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var115)
+[2019.12.10-22.32.25:375][940]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var117)
+[2019.12.10-22.32.45:675][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.32.49:614][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.33.19:592][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var193)
+[2019.12.10-22.33.25:870][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var160)
+[2019.12.10-22.33.33:183][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.33.38:402][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.33.43:948][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var90)
+[2019.12.10-22.33.47:719][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var89)
+[2019.12.10-22.33.49:844][533]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.12.10-22.33.50:849][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var89)
+[2019.12.10-22.33.53:568][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.33.56:629][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.34.15:872][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var193)
+[2019.12.10-22.34.16:909][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.34.19:697][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.34.29:067][725]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.10-22.34.29:632][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var160)
+[2019.12.10-22.34.52:279][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWall_2)
+[2019.12.10-22.35.05:966][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.35.10:829][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.35.19:448][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.35.22:678][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.35.39:975][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallDestroyed_2)
+[2019.12.10-22.35.41:379][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWall_4)
+[2019.12.10-22.35.45:706][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallDestroyed_2)
+[2019.12.10-22.36.16:384][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate_Closed5)
+[2019.12.10-22.36.20:594][ 79]Cmd: DELETE
+[2019.12.10-22.36.20:594][ 79]Cmd: ACTOR DELETE
+[2019.12.10-22.36.20:606][ 79]LogEditorActor: Deleted Actor: Brush
+[2019.12.10-22.36.20:647][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.10-22.36.20:653][ 79]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2019.12.10-22.36.23:993][264]LogEditorViewport: Clicking on Actor (LMB): M-42_45mm_Blueprint_C (M-42_45mm_Blueprint)
+[2019.12.10-22.36.30:205][550]LogEditorViewport: Clicking on Actor (LMB): M-42_45mm3_Blueprint_C (M-42_45mm3_Blueprint)
+[2019.12.10-22.36.40:365][ 64]LogEditorViewport: Clicking on Actor (LMB): M-42_45mm_Blueprint_C (M-42_45mm_Blueprint)
+[2019.12.10-22.36.44:262][227]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Walk_Fwd_Rifle_Ironsights)
+[2019.12.10-22.36.46:095][318]Cmd: DELETE
+[2019.12.10-22.36.46:096][318]Cmd: ACTOR DELETE
+[2019.12.10-22.36.46:107][318]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.12.10-22.36.46:150][318]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.12.10-22.36.46:151][318]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2019.12.10-22.36.46:642][344]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonWalk)
+[2019.12.10-22.36.46:823][348]Cmd: DELETE
+[2019.12.10-22.36.46:823][348]Cmd: ACTOR DELETE
+[2019.12.10-22.36.46:836][348]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.12.10-22.36.46:875][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.12.10-22.36.46:876][348]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2019.12.10-22.36.55:285][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallDestroyed_3)
+[2019.12.10-22.37.24:562][477]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Idle_Rifle_Hip_Break1)
+[2019.12.10-22.37.42:837][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.37.46:926][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.38.19:156][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var191)
+[2019.12.10-22.38.26:973][ 20]LogEditorViewport: Clicking on Actor (LMB): BP_Hut_D1_C (BP_Hut_D1)
+[2019.12.10-22.38.37:618][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.38.42:114][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.39.08:944][352]LogEditorViewport: Clicking on Actor (LMB): BP_Hut_D1_C (BP_Hut_D1)
+[2019.12.10-22.39.48:863][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (T-62_Static2)
+[2019.12.10-22.39.55:757][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SU_152_static)
+[2019.12.10-22.39.57:064][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.39.59:704][283]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.10-22.40.05:718][627]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.10-22.40.13:373][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var14)
+[2019.12.10-22.40.13:992][100]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var15)
+[2019.12.10-22.40.14:610][134]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2019.12.10-22.40.15:569][171]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var16)
+[2019.12.10-22.40.16:127][202]LogEditorViewport: Clicking on Actor (CTRL LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.12.10-22.40.18:638][334]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var17)
+[2019.12.10-22.40.19:439][380]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var18)
+[2019.12.10-22.40.20:173][422]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var19)
+[2019.12.10-22.40.26:297][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.40.38:026][462]Cmd: TRANSACTION UNDO
+[2019.12.10-22.40.38:026][462]LogEditorTransaction: Undo Rotate Actors
+[2019.12.10-22.40.43:037][462]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-22.40.43:062][462]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2019.12.10-22.40.43:191][462]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-22.40.43:219][462]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.10-22.40.46:817][670]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.10-22.40.53:407][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var14)
+[2019.12.10-22.40.54:780][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.40.56:022][192]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var15)
+[2019.12.10-22.40.57:003][248]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var16)
+[2019.12.10-22.40.57:852][296]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var17)
+[2019.12.10-22.41.00:874][450]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var18)
+[2019.12.10-22.41.01:703][496]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var19)
+[2019.12.10-22.41.09:988][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.41.13:152][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.41.24:671][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.41.27:844][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.42.00:842][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var53)
+[2019.12.10-22.42.01:400][846]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var60)
+[2019.12.10-22.42.03:321][955]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var59)
+[2019.12.10-22.42.06:689][140]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var57)
+[2019.12.10-22.42.07:761][198]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var56)
+[2019.12.10-22.42.09:739][311]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var58)
+[2019.12.10-22.42.12:730][470]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var65)
+[2019.12.10-22.42.13:355][501]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var64)
+[2019.12.10-22.42.15:015][594]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var62)
+[2019.12.10-22.42.19:820][859]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var61)
+[2019.12.10-22.42.20:681][907]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var63)
+[2019.12.10-22.42.22:242][994]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var70)
+[2019.12.10-22.42.24:412][102]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var69)
+[2019.12.10-22.42.25:411][158]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var67)
+[2019.12.10-22.42.34:338][660]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var66)
+[2019.12.10-22.42.34:998][695]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var68)
+[2019.12.10-22.42.37:111][810]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var75)
+[2019.12.10-22.42.38:229][870]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var74)
+[2019.12.10-22.42.39:318][929]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var72)
+[2019.12.10-22.43.30:125][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var77)
+[2019.12.10-22.43.30:878][715]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence_Var76)
+[2019.12.10-22.43.34:947][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var73)
+[2019.12.10-22.43.58:346][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var79)
+[2019.12.10-22.43.59:236][335]Cmd: DELETE
+[2019.12.10-22.43.59:237][335]Cmd: ACTOR DELETE
+[2019.12.10-22.43.59:266][335]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.10-22.43.59:425][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.12.10-22.43.59:425][335]LogEditorActor: Deleted 1 Actors (0.188 secs)
+[2019.12.10-22.43.59:785][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var55)
+[2019.12.10-22.44.00:002][365]Cmd: DELETE
+[2019.12.10-22.44.00:002][365]Cmd: ACTOR DELETE
+[2019.12.10-22.44.00:016][365]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.10-22.44.00:057][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.12.10-22.44.00:058][365]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.12.10-22.44.01:235][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var54)
+[2019.12.10-22.44.01:394][439]Cmd: DELETE
+[2019.12.10-22.44.01:394][439]Cmd: ACTOR DELETE
+[2019.12.10-22.44.01:409][439]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.10-22.44.01:452][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.12.10-22.44.01:453][439]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.12.10-22.44.02:100][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var52)
+[2019.12.10-22.44.02:426][493]Cmd: DELETE
+[2019.12.10-22.44.02:427][493]Cmd: ACTOR DELETE
+[2019.12.10-22.44.02:439][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.10-22.44.02:483][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.12.10-22.44.02:483][493]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2019.12.10-22.44.02:860][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence_Var51)
+[2019.12.10-22.44.03:079][524]Cmd: DELETE
+[2019.12.10-22.44.03:079][524]Cmd: ACTOR DELETE
+[2019.12.10-22.44.03:092][524]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.10-22.44.03:130][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.12.10-22.44.03:130][524]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.12.10-22.44.13:386][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_01)
+[2019.12.10-22.44.22:100][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_3)
+[2019.12.10-22.44.24:799][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_01)
+[2019.12.10-22.44.31:863][ 68]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.12.10-22.44.34:522][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_2)
+[2019.12.10-22.44.52:822][245]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.12.10-22.44.53:580][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_01)
+[2019.12.10-22.45.00:322][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HedgeHogMetal_3)
+[2019.12.10-22.45.21:118][851]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonIdle2)
+[2019.12.10-22.45.22:698][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.45.26:185][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.45.42:132][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Post_A2)
+[2019.12.10-22.45.43:107][ 80]Cmd: DELETE
+[2019.12.10-22.45.43:108][ 80]Cmd: ACTOR DELETE
+[2019.12.10-22.45.43:120][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.10-22.45.43:158][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.12.10-22.45.43:158][ 80]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.12.10-22.45.51:759][574]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonIdle)
+[2019.12.10-22.45.52:741][627]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (Idle_Rifle_Hip)
+[2019.12.10-22.45.54:452][722]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_SandbagWallBend_8)
+[2019.12.10-22.45.59:672][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.46.05:424][334]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.10-22.46.17:220][ 14]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Prone_Idle)
+[2019.12.10-22.46.18:402][ 79]Cmd: DELETE
+[2019.12.10-22.46.18:402][ 79]Cmd: ACTOR DELETE
+[2019.12.10-22.46.18:415][ 79]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.12.10-22.46.18:451][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.12.10-22.46.18:452][ 79]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.12.10-22.46.38:429][241]LogEditorViewport: Clicking on Actor (LMB): BP_Hut_D1_C (BP_Hut_D2)
+[2019.12.10-22.46.39:604][307]Cmd: DELETE
+[2019.12.10-22.46.39:604][307]Cmd: ACTOR DELETE
+[2019.12.10-22.46.39:617][307]LogEditorActor: Deleted Actor: BP_Hut_D1_C
+[2019.12.10-22.46.39:658][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.12.10-22.46.39:658][307]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2019.12.10-22.46.40:634][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.46.56:925][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.47.17:474][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.47.17:728][260]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM_HutE_Stairs, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:UserConstructionScript:026A
+[2019.12.10-22.47.17:728][260]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM_HutE_Stairs, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:UserConstructionScript:03B4
+[2019.12.10-22.47.17:728][260]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM Target, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0017
+[2019.12.10-22.47.17:729][260]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0054
+[2019.12.10-22.47.17:729][260]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM Target, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0017
+[2019.12.10-22.47.17:729][260]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0054
+[2019.12.10-22.47.17:729][260]LogScript: Warning: Attempted to access SM_HutE_Ranch via property SM Target, but SM_HutE_Ranch is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0017
+[2019.12.10-22.47.17:729][260]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0054
+[2019.12.10-22.47.17:729][260]LogScript: Warning: Attempted to access SM_HutE_RoofTopA via property SM Target, but SM_HutE_RoofTopA is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0017
+[2019.12.10-22.47.17:729][260]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0054
+[2019.12.10-22.47.17:729][260]LogScript: Warning: Attempted to access SM_HutE_RoofTopA via property SM Target, but SM_HutE_RoofTopA is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0017
+[2019.12.10-22.47.17:729][260]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0054
+[2019.12.10-22.47.17:734][260]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM_HutE_Stairs, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:UserConstructionScript:026A
+[2019.12.10-22.47.17:734][260]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM_HutE_Stairs, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:UserConstructionScript:03B4
+[2019.12.10-22.47.17:734][260]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM Target, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0017
+[2019.12.10-22.47.17:734][260]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0054
+[2019.12.10-22.47.17:734][260]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM Target, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0017
+[2019.12.10-22.47.20:316][326]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM_HutE_Stairs, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:UserConstructionScript:026A
+[2019.12.10-22.47.20:317][326]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM_HutE_Stairs, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:UserConstructionScript:03B4
+[2019.12.10-22.47.20:317][326]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM Target, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0017
+[2019.12.10-22.47.20:317][326]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0054
+[2019.12.10-22.47.20:317][326]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM Target, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0017
+[2019.12.10-22.47.20:317][326]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0054
+[2019.12.10-22.47.20:317][326]LogScript: Warning: Attempted to access SM_HutE_Ranch via property SM Target, but SM_HutE_Ranch is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0017
+[2019.12.10-22.47.20:317][326]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0054
+[2019.12.10-22.47.20:317][326]LogScript: Warning: Attempted to access SM_HutE_RoofTopA via property SM Target, but SM_HutE_RoofTopA is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0017
+[2019.12.10-22.47.20:317][326]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0054
+[2019.12.10-22.47.20:317][326]LogScript: Warning: Attempted to access SM_HutE_RoofTopA via property SM Target, but SM_HutE_RoofTopA is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0017
+[2019.12.10-22.47.20:317][326]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0054
+[2019.12.10-22.47.20:327][326]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM_HutE_Stairs, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:UserConstructionScript:026A
+[2019.12.10-22.47.20:328][326]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM_HutE_Stairs, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:UserConstructionScript:03B4
+[2019.12.10-22.47.20:328][326]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM Target, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0017
+[2019.12.10-22.47.20:328][326]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0054
+[2019.12.10-22.47.20:328][326]LogScript: Warning: Attempted to access SM_HutE_Stairs via property SM Target, but SM_HutE_Stairs is pending kill
+	BP_Hut_E1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_E2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_E1.BP_Hut_E1_C:Set Color:0017
+[2019.12.10-22.47.28:214][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.47.28:468][770]LogScript: Warning: Attempted to access SM_HutACeilingB via property SM_HutACeilingB, but SM_HutACeilingB is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:030B
+[2019.12.10-22.47.28:468][770]LogScript: Warning: Attempted to access SM_HutACeilingA via property SM_HutACeilingA, but SM_HutACeilingA is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:0334
+[2019.12.10-22.47.28:468][770]LogScript: Warning: Attempted to access SM_HutACeilingB via property SM_HutACeilingB, but SM_HutACeilingB is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:03B1
+[2019.12.10-22.47.28:468][770]LogScript: Warning: Attempted to access SM_HutACeilingA via property SM_HutACeilingA, but SM_HutACeilingA is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:03DA
+[2019.12.10-22.47.28:468][770]LogScript: Warning: Attempted to access SM_HutACeilingB via property Target, but SM_HutACeilingB is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0017
+[2019.12.10-22.47.28:468][770]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0054
+[2019.12.10-22.47.28:469][770]LogScript: Warning: Attempted to access SM_HutACeilingA via property Target, but SM_HutACeilingA is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0017
+[2019.12.10-22.47.28:469][770]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0054
+[2019.12.10-22.47.28:471][770]LogScript: Warning: Attempted to access SM_HutACeilingB via property SM_HutACeilingB, but SM_HutACeilingB is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:030B
+[2019.12.10-22.47.28:471][770]LogScript: Warning: Attempted to access SM_HutACeilingA via property SM_HutACeilingA, but SM_HutACeilingA is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:0334
+[2019.12.10-22.47.28:472][770]LogScript: Warning: Attempted to access SM_HutACeilingB via property SM_HutACeilingB, but SM_HutACeilingB is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:03B1
+[2019.12.10-22.47.28:472][770]LogScript: Warning: Attempted to access SM_HutACeilingA via property SM_HutACeilingA, but SM_HutACeilingA is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:03DA
+[2019.12.10-22.47.28:472][770]LogScript: Warning: Attempted to access SM_HutACeilingB via property Target, but SM_HutACeilingB is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0017
+[2019.12.10-22.47.28:472][770]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0054
+[2019.12.10-22.47.28:472][770]LogScript: Warning: Attempted to access SM_HutACeilingA via property Target, but SM_HutACeilingA is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0017
+[2019.12.10-22.47.28:472][770]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0054
+[2019.12.10-22.47.28:474][770]LogScript: Warning: Attempted to access SM_HutACeilingB via property SM_HutACeilingB, but SM_HutACeilingB is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:030B
+[2019.12.10-22.47.31:441][874]LogScript: Warning: Attempted to access SM_HutACeilingB via property SM_HutACeilingB, but SM_HutACeilingB is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:030B
+[2019.12.10-22.47.31:441][874]LogScript: Warning: Attempted to access SM_HutACeilingA via property SM_HutACeilingA, but SM_HutACeilingA is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:0334
+[2019.12.10-22.47.31:441][874]LogScript: Warning: Attempted to access SM_HutACeilingB via property SM_HutACeilingB, but SM_HutACeilingB is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:03B1
+[2019.12.10-22.47.31:441][874]LogScript: Warning: Attempted to access SM_HutACeilingA via property SM_HutACeilingA, but SM_HutACeilingA is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:03DA
+[2019.12.10-22.47.31:441][874]LogScript: Warning: Attempted to access SM_HutACeilingB via property Target, but SM_HutACeilingB is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0017
+[2019.12.10-22.47.31:441][874]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0054
+[2019.12.10-22.47.31:442][874]LogScript: Warning: Attempted to access SM_HutACeilingA via property Target, but SM_HutACeilingA is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0017
+[2019.12.10-22.47.31:442][874]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0054
+[2019.12.10-22.47.31:449][874]LogScript: Warning: Attempted to access SM_HutACeilingB via property SM_HutACeilingB, but SM_HutACeilingB is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:030B
+[2019.12.10-22.47.31:449][874]LogScript: Warning: Attempted to access SM_HutACeilingA via property SM_HutACeilingA, but SM_HutACeilingA is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:0334
+[2019.12.10-22.47.31:449][874]LogScript: Warning: Attempted to access SM_HutACeilingB via property SM_HutACeilingB, but SM_HutACeilingB is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:03B1
+[2019.12.10-22.47.31:449][874]LogScript: Warning: Attempted to access SM_HutACeilingA via property SM_HutACeilingA, but SM_HutACeilingA is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:03DA
+[2019.12.10-22.47.31:449][874]LogScript: Warning: Attempted to access SM_HutACeilingB via property Target, but SM_HutACeilingB is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0017
+[2019.12.10-22.47.31:449][874]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0054
+[2019.12.10-22.47.31:449][874]LogScript: Warning: Attempted to access SM_HutACeilingA via property Target, but SM_HutACeilingA is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0017
+[2019.12.10-22.47.31:449][874]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:Set Color:0054
+[2019.12.10-22.47.31:454][874]LogScript: Warning: Attempted to access SM_HutACeilingB via property SM_HutACeilingB, but SM_HutACeilingB is pending kill
+	BP_Hut_A1_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Hut_A2_5
+	Function /Game/TheHut/BPs/Huts/BP_Hut_A1.BP_Hut_A1_C:UserConstructionScript:030B
+[2019.12.10-22.47.42:657][509]Cmd: DELETE
+[2019.12.10-22.47.42:657][509]Cmd: ACTOR DELETE
+[2019.12.10-22.47.42:686][509]LogEditorActor: Deleted Actor: BP_Hut_A1_C
+[2019.12.10-22.47.42:865][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.12.10-22.47.42:865][509]LogEditorActor: Deleted 1 Actors (0.208 secs)
+[2019.12.10-22.47.49:547][897]LogEditorViewport: Clicking on Actor (LMB): BP_Hut_E1_C (BP_Hut_E2)
+[2019.12.10-22.47.50:741][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.47.57:262][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallDestroyed_4)
+[2019.12.10-22.47.58:842][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.48.01:396][534]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.12.10-22.48.01:666][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.48.02:579][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SandbagWallDestroyed_4)
+[2019.12.10-22.48.14:492][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate_Closed5)
+[2019.12.10-22.48.41:373][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.49.08:601][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.49.08:899][140]LogActorFactory: Actor Factory created SM_Table_A1
+[2019.12.10-22.49.11:862][215]LogActorFactory: Actor Factory created SM_Table_A1
+[2019.12.10-22.49.27:102][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.49.27:299][ 39]LogActorFactory: Actor Factory created SM_Chair_A1
+[2019.12.10-22.49.29:422][113]LogActorFactory: Actor Factory created SM_Chair_A1
+[2019.12.10-22.49.41:587][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.49.42:101][808]LogActorFactory: Actor Factory created SM_Bed_A1
+[2019.12.10-22.49.43:719][869]LogActorFactory: Actor Factory created SM_Bed_A1
+[2019.12.10-22.49.47:151][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.49.51:406][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.50.07:713][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.50.07:917][236]LogActorFactory: Actor Factory created SM_Box_A2
+[2019.12.10-22.50.10:508][354]LogActorFactory: Actor Factory created SM_Box_A2
+[2019.12.10-22.50.13:103][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.50.13:345][490]LogActorFactory: Actor Factory created SM_Box_A1
+[2019.12.10-22.50.15:301][568]LogActorFactory: Actor Factory created SM_Box_A1
+[2019.12.10-22.50.17:569][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.50.17:764][680]LogActorFactory: Actor Factory created SM_BoxCover_A1
+[2019.12.10-22.50.20:975][815]LogActorFactory: Actor Factory created SM_BoxCover_A1
+[2019.12.10-22.50.25:222][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.50.28:276][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.50.33:797][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.50.33:979][550]LogActorFactory: Actor Factory created SM_BoxCover_A2
+[2019.12.10-22.50.36:731][666]LogActorFactory: Actor Factory created SM_BoxCover_A2
+[2019.12.10-22.50.48:530][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.50.48:680][356]LogActorFactory: Actor Factory created SM_FramePhoto_A2
+[2019.12.10-22.50.52:529][541]LogActorFactory: Actor Factory created SM_FramePhoto_A2
+[2019.12.10-22.50.54:821][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.51.01:081][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.51.11:432][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.51.17:935][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.51.34:715][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.51.44:220][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.51.55:340][ 37]LogEditorViewport: Clicking on Actor (LMB): BP_Hut_A1_C (BP_Hut_A1)
+[2019.12.10-22.52.03:065][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.52.03:233][468]LogActorFactory: Actor Factory created SM_Chair_A1
+[2019.12.10-22.52.05:568][566]LogActorFactory: Actor Factory created SM_Chair_A1
+[2019.12.10-22.52.12:261][910]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-22.52.13:459][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.12.10-22.52.13:494][967]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-22.52.13:505][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-22.52.13:544][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.12.10-22.52.14:638][967]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMapCFE48C8E4400D0E6177F379960BA2617.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.10-22.52.14:667][967]LogFileHelpers: Saving map 'MainMap' took 1.164
+[2019.12.10-22.52.16:267][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.52.23:405][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.52.40:073][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.52.40:268][383]LogActorFactory: Actor Factory created SM_Box_A2
+[2019.12.10-22.52.43:990][524]LogActorFactory: Actor Factory created SM_Box_A2
+[2019.12.10-22.52.53:016][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-22.52.53:180][ 45]LogActorFactory: Actor Factory created SM_Barril_A1
+[2019.12.10-22.52.57:372][228]LogActorFactory: Actor Factory created SM_Barril_A1
+[2019.12.10-23.02.13:774][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.12.10-23.02.14:089][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.10-23.02.15:022][439]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto68FFE6B75464643CE286A23A4F9BA4878.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto6.umap'
+[2019.12.10-23.02.15:124][439]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 1.398
+[2019.12.10-23.02.15:125][439]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.398
+[2019.12.10-23.21.40:263][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.22.26:065][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.23.17:792][655]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-23.23.17:850][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.12.10-23.23.17:850][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.10-23.23.19:395][655]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_Auto78BC397984D6EBEEAA06DF1A2C05D5F8D.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Saved/Autosaves/Game/Maps/MainMap_Auto7.umap'
+[2019.12.10-23.23.19:423][655]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 1.618
+[2019.12.10-23.23.19:423][655]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.618
+[2019.12.10-23.23.24:765][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.24.34:556][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.25.55:148][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.25.55:299][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-23.25.55:342][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.12.10-23.25.56:442][280]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap30B5380E4C095207E72422BB0E453485.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.10-23.25.56:463][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2019.12.10-23.25.56:473][280]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltDataFCBBFFA14A7BAFABA9E77FA27B3728A3.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
+[2019.12.10-23.26.04:866][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.26.05:006][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-23.26.05:043][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.12.10-23.26.06:075][748]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMapD54CC02945DAAA32FB793494FA499D91.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.10-23.26.06:092][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2019.12.10-23.26.06:195][748]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltData41F6D4074EC275EECCFC0B9C9C471EDE.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
+[2019.12.10-23.26.48:442][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.26.48:613][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-23.26.48:655][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.12.10-23.26.49:584][207]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMapC55D34BA4531D3940A38AF9EB97EAE9B.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.10-23.26.49:601][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2019.12.10-23.26.49:610][207]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltDataC0EC02C04FAB4AD584A0FF8F04486120.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
+[2019.12.10-23.28.37:053][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-23.28.37:192][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.10-23.28.37:228][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.12.10-23.28.38:224][811]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap3589B0A24BE915043C199B94BAFD60B6.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap.umap'
+[2019.12.10-23.28.38:240][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2019.12.10-23.28.38:250][811]LogSavePackage: Moving '../../../../GitHub/Warzone_project/BattleZone/Saved/MainMap_BuiltData82F21A30431C553A43A99CBEDDF9132A.tmp' to '../../../../GitHub/Warzone_project/BattleZone/Content/Maps/MainMap_BuiltData.uasset'
